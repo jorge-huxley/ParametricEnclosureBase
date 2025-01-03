@@ -1,6 +1,12 @@
 # Parametric Enclosure Base
 Parametric Electronics Enclosure made in FreeCAD
 
+## Acknowledgments
+This project is a fork of [ParametricEnclosureBase
+](https://github.com/brodiefairhall/ParametricEnclosureBase) by [Brodie](https://github.com/brodiefairhall/) for FreeCAD 1.0.
+
+## Project
+
 This enclosure serves as a base to most of the electronics enclosures I create.
 (Requires FreeCAD 0.19 & Fasteners Workbench addon for tapped holes)
 
